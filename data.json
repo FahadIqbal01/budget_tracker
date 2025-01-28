@@ -1,20 +1,23 @@
-[
-  [
-    "Income",
-    5000,
-    "Salary",
-    "None"
-  ],
-  [
-    "Expense",
-    2000,
-    "Rent",
-    "Home"
-  ],
-  [
-    "Expense",
-    500,
-    "Groceries",
-    "Grocery"
+{
+  "balance": 2500,
+  "transaction": [
+    {
+      "type": "Income",
+      "amount": 5000,
+      "description": "Salary",
+      "category": "Income"
+    },
+    {
+      "type": "Expense",
+      "amount": 2000,
+      "description": "Rent",
+      "category": "Home"
+    },
+    {
+      "type": "Expense",
+      "amount": 500,
+      "description": "Groceries",
+      "category": "Grocery"
+    }
   ]
-]
+}
