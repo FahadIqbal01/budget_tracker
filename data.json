@@ -1,0 +1,20 @@
+[
+  [
+    "Income",
+    5000,
+    "Salary",
+    "None"
+  ],
+  [
+    "Expense",
+    2000,
+    "Rent",
+    "Home"
+  ],
+  [
+    "Expense",
+    500,
+    "Groceries",
+    "Grocery"
+  ]
+]
